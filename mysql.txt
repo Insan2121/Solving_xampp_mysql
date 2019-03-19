@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/53626037/i-am-facing-a-mysql-error-when-i-start-my-xampp-in-ubuntu-18-04
